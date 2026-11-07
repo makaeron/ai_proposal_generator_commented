@@ -1,0 +1,22 @@
+{
+  "PROD-CRM-001": {
+    "product_id": "PROD-CRM-001",
+    "sku": "CRM-SALES-STD",
+    "name": "Sales Automation Suite",
+    "description": "Core sales workflow automation with lead and follow-up management.",
+    "features": ["Lead tracking", "Follow-up workflows", "Dashboard reporting"],
+    "service_category": "Software",
+    "base_price": 4800.0,
+    "availability_tag": "standard"
+  },
+  "PROD-AI-002": {
+    "product_id": "PROD-AI-002",
+    "sku": "AI-PROPOSAL-ADDON",
+    "name": "AI Proposal Assistant Add-on",
+    "description": "Proposal generation and quotation drafting support for sales teams.",
+    "features": ["Proposal drafting", "Scope summary", "Quotation narrative"],
+    "service_category": "AI Add-on",
+    "base_price": 3200.0,
+    "availability_tag": "fast"
+  }
+}

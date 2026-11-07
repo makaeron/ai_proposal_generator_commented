@@ -1,0 +1,14 @@
+{
+  "customer_id": "CUST-1001",
+  "line_items": [
+    {"product_id": "PROD-CRM-001", "quantity": 1},
+    {"product_id": "PROD-AI-002", "quantity": 1}
+  ],
+  "customer_requirements": "The customer wants a proposal for improving sales operations, faster follow-up handling, and standardizing client-facing proposal generation.",
+  "special_terms": "Net 30 payment terms. Commercial validity for 30 days.",
+  "delivery_timeline_requested": "Within 2 weeks",
+  "objective": "Sales process improvement and faster quotation turnaround",
+  "special_discount_pct": 5.0,
+  "extra_comments": "Keep the tone formal and business-friendly.",
+  "currency": "CAD"
+}

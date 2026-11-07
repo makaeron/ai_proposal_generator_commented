@@ -1,0 +1,10 @@
+{
+  "regional_tax_pct": {
+    "CA-ON": 13.0
+  },
+  "industry_discount_pct": {
+    "Retail": 3.0,
+    "Healthcare": 2.0,
+    "Technology": 4.0
+  }
+}

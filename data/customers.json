@@ -1,0 +1,12 @@
+{
+  "CUST-1001": {
+    "customer_id": "CUST-1001",
+    "company_name": "Example Retail Company",
+    "contact_name": "Sample Contact",
+    "email": "sample@example.com",
+    "phone": "000-000-0000",
+    "billing_address": "Sample address (not real)",
+    "industry": "Retail",
+    "account_owner": "Account Executive"
+  }
+}
